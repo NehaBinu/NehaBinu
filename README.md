@@ -1,37 +1,59 @@
 <!-- Put this file in a PUBLIC repo named exactly the same as your username: NehaBinu/NehaBinu -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hey%2C%20I'm%20Neha%20%F0%9F%91%8B&fontSize=52&fontAlignY=36&animation=fadeIn&desc=CSE%20%40%20IGDTUW%20%7C%20full-stack%20%2B%20ML&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=230&section=header&text=Neha%20Binu&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Builder&descAlignY=62&descSize=22" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/NehaBinu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6EE7B7&center=true&vCenter=true&width=680&lines=3rd+year+B.Tech+CSE+%40+IGDTUW;I+build+full-stack+apps+that+actually+ship;ML+%2B+explainable+AI+when+the+data+calls;Currently+polishing+SkillForge+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=8B7CFF&center=true&vCenter=true&width=720&lines=Full-Stack+%7C+ML+%7C+Explainable+AI;Next.js+%2B+TypeScript+%2B+Node;Generative+AI+%7C+RAG+%7C+NLP;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/neha-binu"><img src="https://img.shields.io/badge/LinkedIn-neha--binu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/NehaBinu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-NehaBinu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/neha-binu"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nehabinu17@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/NehaBinu"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NehaBinu&label=PROFILE+VIEWS&color=6c63ff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👩‍💻 About me
+## 🌸 About Me
 
-Hi! I'm Neha, a third-year Computer Science B.Tech student at **IGDTUW**, Delhi (batch of 2028).
+```python
+class Neha:
+    def __init__(self):
+        self.name = "Neha Binu"
+        self.education = "B.Tech CSE @ IGDTUW (2024 - 2028)"
+        self.roles = ["Full-Stack Developer", "ML Researcher"]
 
-I started with Python and ML, then got hooked on building full-stack products end to end. These days I split my time between shipping web apps with Next.js and Node, and training models when a problem needs some real data-crunching.
+        self.currently = [
+            "polishing SkillForge, my multi-tenant SaaS",
+            "working on a RAG-based interview prep assistant",
+            "going deeper into GenAI and NLP",
+        ]
 
-- 🔭 **Working on:** polishing [SkillForge](https://github.com/NehaBinu/skillforge-ai) and planning a RAG-based resume and interview prep assistant
-- 🏢 **Recently:** Full Stack Development Intern at CodTech IT Solutions (Jun–Jul 2026), where I built two production-ready apps
-- 🔬 **Before that:** ML Research Intern at Anveshan Foundation, IGDTUW (2025), working on explainable cancer prediction
-- 🌱 **Learning:** RAG, NLP and generative AI
-- 📫 **Open to:** SDE and ML/AI internships
+        self.superpowers = {
+            "web": "Next.js, TypeScript, Node, Express",
+            "data": "MongoDB, PostgreSQL",
+            "ml": "Scikit-learn, SHAP, LightGBM",
+            "ai": "Groq API, prompt engineering",
+        }
+
+        self.status = "open to SDE and ML/AI internships"
+        self.debugging = "why it worked five minutes ago"
+
+    def say_hi(self):
+        return "Got an idea? Let's build it together."
+```
 
 ---
 
-## 🛠️ Tech I use
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -39,12 +61,11 @@ I started with Python and ML, then got hooked on building full-stack products en
 
 </div>
 
-**Languages:** C, C++, Python, JavaScript, TypeScript, SQL
-**Also:** Groq API, Stripe, JWT/bcrypt, REST APIs, Scikit-learn, Pandas, NumPy, Matplotlib, SHAP
+**Also:** Stripe, JWT/bcrypt, REST APIs, Pandas, NumPy, Matplotlib, CatBoost
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -57,16 +78,22 @@ I started with Python and ML, then got hooked on building full-stack products en
 
 ---
 
+## 💼 Experience
+
+- **Full Stack Development Intern**, CodTech IT Solutions (Jun - Jul 2026): built two production-ready full-stack apps with auth, REST APIs, AI content generation and subscription workflows
+- **ML Research Intern**, Anveshan Foundation, IGDTUW (Jun - Jul 2025): explainable breast cancer prediction with PCA, RFE, SVM and SHAP
+
+---
+
 ## 🏆 Highlights
 
 - 🥈 **2nd place** among 65+ projects at the 4th Research Showcase, IGDTUW (BioDegradeX)
 - 🌊 **Smart India Hackathon 2025:** AI ocean data assistant, cleared the institutional round
 - 📄 ML research paper on explainable cancer prediction, currently under revision
-- 🎯 **99.12%** accuracy on breast cancer classification
 
 ---
 
-## 🐍 Contribution snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -81,6 +108,6 @@ I started with Python and ML, then got hooked on building full-stack products en
 
 💬 Ask me about full-stack, ML, or surviving placement season
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
